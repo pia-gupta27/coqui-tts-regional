@@ -98,7 +98,6 @@ numba==0.60.0
 numpy==1.26.4
 packaging==24.1
 pandas==1.5.3
-pdf2image==1.17.0
 peft==0.11.1
 pillow==10.4.0
 platformdirs==4.3.6

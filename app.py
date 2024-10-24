@@ -1,6 +1,5 @@
 import streamlit as st
 from regional import TextToSpeech
-import TTS
 
 # Set up the Streamlit app
 st.title("Hindi Text-to-Speech (TTS) Application")
